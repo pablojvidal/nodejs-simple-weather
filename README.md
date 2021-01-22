@@ -17,16 +17,15 @@ npm install
 
 ## Run the web app in heroku:
 
-#### Push the button
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Run the web app locally
 
-#### next open terminal and write
+#### Open terminal in the root folder and write
 
 ```
 node server.js
-// Now open your browser and visit: localhost:3000
+
 ```
 
-node server.js
-// Now open your browser and visit: localhost:3000
+#### Now open your browser and visit: localhost:3000
