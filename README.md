@@ -17,7 +17,7 @@ npm install
 
 ## Run the web app in heroku:
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/pablojvidal/nodejs-simple-weather)
 
 ## Run the web app locally
 
